@@ -11,7 +11,7 @@ Next, install the redline-quickstart vagrant box. Then boot it and log in, and y
 ```bash
 git clone https://github.com/patmaddox/redline-quickstart.git
 cd redline-quickstart
-vagrant box add redline-quickstart http://patmaddox.com/vagrant/redline-quickstart.box
+vagrant box add redline-quickstart https://github.com/downloads/patmaddox/redline-quickstart/redline-quickstart.box
 vagrant up
 ```
 
