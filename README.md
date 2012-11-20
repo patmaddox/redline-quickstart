@@ -57,7 +57,4 @@ Now that you've got a working Redline Smalltalk environment, play around! Take a
 
 redline-quickstart is Copyright (c) James Ladd & Pat Maddox, and released under the MIT License. See the LICENSE file for more information.
 
-Redline Smalltalk and Vagrant are separate projects each released under their own licenses (both are MIT at the time of this writing). Please check their respective websites for more information.
-
-* [Redline Smalltalk](http://www.redline.st)
-* [Vagrant](http://vagrantup.com)
+[Redline Smalltalk](http://www.redline.st) and [Vagrant](http://vagrantup.com) are separate projects each released under their own licenses (both are MIT at the time of this writing). Please check their respective websites for more information.
