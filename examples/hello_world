@@ -1,0 +1,2 @@
+#!/bin/sh
+stic -s $REDLINE_HOME/examples st.redline.HelloWorld

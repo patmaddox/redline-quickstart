@@ -1,0 +1,2 @@
+#!/bin/sh
+stout -s $REDLINE_HOME/examples st.redline.Web
