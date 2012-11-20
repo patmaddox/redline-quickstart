@@ -1,6 +1,6 @@
 # Redline Smalltalk Quickstart
 
-Hi, this project is designed to get you up and running with Redline Smalltalk with a minimum of fuss. I've created a [Vagrant box](http://vagrantup.com) that includes all the necessary components you need to run Redline Smalltalk applications. It comes with Java pre-installed, the Redline Smalltalk source code already checked out from GitHub, and paths set up so you can compile and run Redline applications right away. I hope that this will make it very easy to get started and encourage you to experiment with Redline Smalltalk.
+Hi, this project is designed to get you up and running with [Redline Smalltalk](http://www.redline.st) with a minimum of fuss. I've created a [Vagrant](http://vagrantup.com) box that includes all the necessary components you need to run Redline Smalltalk applications. It comes with Java pre-installed, the Redline Smalltalk source code already checked out from GitHub, and paths set up so you can compile and run Redline applications right away. I hope that this will make it very easy to get started and encourage you to experiment with Redline Smalltalk.
 
 ## Installing the box
 
@@ -52,3 +52,12 @@ You now have the latest version of Redline Smalltalk!
 ## What's next?
 
 Now that you've got a working Redline Smalltalk environment, play around! Take a look at the example applications and make your own changes or write new programs. [Please join our community](http://www.redline.st/contribute/#community), we'd love to hear from you!
+
+## License
+
+redline-quickstart is Copyright (c) James Ladd & Pat Maddox, and released under the MIT License. See the LICENSE file for more information.
+
+Redline Smalltalk and Vagrant are separate projects each released under their own licenses (both are MIT at the time of this writing). Please check their respective websites for more information.
+
+* [Redline Smalltalk](http://www.redline.st)
+* [Vagrant](http://vagrantup.com)
