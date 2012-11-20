@@ -42,7 +42,7 @@ You can see that it runs the redline compiler ```stic```, loading the st.redline
 The redline-quickstart vagrant box already has the redline code checked out. It's easy to update the source code and build a new version yourself.
 
 ```bash
-cd /vagrant/redline-smalltalk
+cd /home/vagrant/redline-smalltalk
 git pull
 mvn clean install
 ```
