@@ -49,6 +49,19 @@ mvn clean install
 
 You now have the latest version of Redline Smalltalk!
 
+## Developer mode
+
+[Developers! Developers! Developers! Developers!](http://www.youtube.com/watch?v=8To-6VIJZRE)
+
+Want to contribute to Redline? Awesome! You need to tell vagrant to include the redline-smalltalk source code in the special /vagrant directory that's accessible to your host machine. It's a simple matter of moving the redline-smalltalk directory and creating a symlink from $HOME/redline-smalltalk. I wrapped it up in a script:
+
+```bash
+cd /vagrant
+./enable_dev_mode.sh
+```
+
+This moves the redline-smalltalk source repository to a subdirectory of your git repo, making it accessible from your host machine. redline-smalltalk is in gitignore, meaning that it's a completely separate repository that points to [redline-smalltalk on GitHub](https://github.com/redline-smalltalk/redline-smalltalk). If you want to make changes to the redline-smalltalk source code, make them here!
+
 ## What's next?
 
 Now that you've got a working Redline Smalltalk environment, play around! Take a look at the example applications and make your own changes or write new programs. [Please join our community](http://www.redline.st/contribute/#community), we'd love to hear from you!
